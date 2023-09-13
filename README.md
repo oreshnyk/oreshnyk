@@ -6,8 +6,6 @@
 <img align="right" alt="coding" width="300px" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWU0OGMxNTU1NTc3MWFlYmNlNjlmN2M5NDkyNThmOGI4MjI5NTM5MiZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
 
 
-<a href="https://github.com/JaeSeoKim/badge42"><img align="right" width="300" src="https://badge42.vercel.app/api/v2/clhj2rf4q005908l394rteszn/stats?cursusId=21&coalitionId=205" alt="oreshetn's 42 stats" /></a>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oreshnyk&label=Profile%20views&color=0e75b6&style=flat" alt="oreshnyk" /> </p>
 
 
