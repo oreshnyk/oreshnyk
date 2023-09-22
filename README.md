@@ -1,7 +1,7 @@
 ![MasterHead](https://miro.medium.com/max/1400/1*RAsZ2uD3ZO7-NCuK2MUILA.gif)
 
 <h1 align="center">Hi 👋, I'm Oleksii Reshetnyk</h1>
-<h3 align="center">A passionate frontend developer from Ukraine</h3>
+<h3 align="center">A passionate fullstack developer from Ukraine</h3>
 
 <img align="right" alt="coding" width="300px" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWU0OGMxNTU1NTc3MWFlYmNlNjlmN2M5NDkyNThmOGI4MjI5NTM5MiZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
 
