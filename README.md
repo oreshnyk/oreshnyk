@@ -9,7 +9,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oreshnyk&label=Profile%20views&color=0e75b6&style=flat" alt="oreshnyk" /> </p>
 
 
-- 🌱 I’m currently learning **Typescript / React-native and C language at 42 School**
+- 🌱 I’m currently learning **Typescript / .NET / C# / C language at 42 School**
 
 - 💬 Ask me about **HTML/CSS; JavaScript**
 
