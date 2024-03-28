@@ -1,5 +1,3 @@
-![MasterHead](https://miro.medium.com/max/1400/1*RAsZ2uD3ZO7-NCuK2MUILA.gif)
-
 <h1 align="center">Hi 👋, I'm Oleksii Reshetnyk</h1>
 <h3 align="center">A passionate fullstack developer from Ukraine</h3>
 
@@ -9,11 +7,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oreshnyk&label=Profile%20views&color=0e75b6&style=flat" alt="oreshnyk" /> </p>
 
 
-- 🌱 I’m currently learning **Typescript / .NET / C# / C language at 42 School**
+- 🌱 I’m currently learning **Vue.js / Astro  &&  C / C# languages at 42 School**
 
-- 💬 Ask me about **HTML/CSS; JavaScript**
+- 💬 Ask me about **MERN Stack**
 
-- 📫 How to reach me **alexeyreshetnik5@gmail.com**
+- 📫 How to reach me **oleksiireshetnyk@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
